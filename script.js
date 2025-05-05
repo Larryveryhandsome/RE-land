@@ -8,8 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         '現場照 (4).jpg',
         '現場照 (5).jpg',
         '現場照 (6).jpg',
-        '現場照 (7).jpg',
-        '現場照 (8).jpg'
+        '現場照 (7).jpg'
     ];
 
     sitePhotos.forEach(photo => {
